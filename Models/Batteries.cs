@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Rocket_Elevators_Consolidation_REST.Models
+{
+    public partial class Batteries
+    {
+        public Batteries()
+        {
+            Columns = new HashSet<Columns>();
+            Interventions = new HashSet<Interventions>();
+        }
+
+        public long Id { get; set; }
+        public string BuildingType { get; set; }
+        public string Status { get; set; }
+        public DateTime? DateOfCommissioning { get; set; }
+        public DateTime? DateOfLastInspection { get; set; }
+        public string CertificateOfOperations { get; set; }
+        public string Information { get; set; }
+        public string Notes { get; set; }
+        public long? EmployeeId { get; set; }
+        public long? BuildingId { get; set; }
+
+        public virtual Buildings Building { get; set; }
+        public virtual Employees Employee { get; set; }
+        public virtual ICollection<Columns> Columns { get; set; }
+        public virtual ICollection<Interventions> Interventions { get; set; }
+    }
+}
