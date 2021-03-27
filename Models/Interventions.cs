@@ -13,8 +13,8 @@ namespace Rocket_Elevators_Consolidation_REST.Models
         public long? ColumnId { get; set; }
         public long? ElevatorId { get; set; }
         public long? EmployeeId { get; set; }
-        public DateTime Start_date { get; set; }
-        public DateTime End_date { get; set; }
+        public DateTime? Start_date { get; set; }
+        public DateTime? End_date { get; set; }
         public string Result { get; set; }
         public string Report { get; set; }
         public string Status { get; set; }
