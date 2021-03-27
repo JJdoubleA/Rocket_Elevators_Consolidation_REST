@@ -48,3 +48,8 @@ C:\Users\15149\desktop\Rocket_Elevators_Consolidation_REST\obj\Debug\net5.0\Rock
 C:\Users\15149\desktop\Rocket_Elevators_Consolidation_REST\obj\Debug\net5.0\Rocket_Elevators_Consolidation_REST.genruntimeconfig.cache
 C:\Users\15149\desktop\Rocket_Elevators_Consolidation_REST\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\15149\desktop\Rocket_Elevators_Consolidation_REST\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\15149\desktop\Rocket_Elevators_Consolidation_REST\bin\Debug\net5.0\publish\web.config
+C:\Users\15149\desktop\Rocket_Elevators_Consolidation_REST\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\15149\desktop\Rocket_Elevators_Consolidation_REST\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\15149\desktop\Rocket_Elevators_Consolidation_REST\bin\Debug\net5.0\publish\Rocket_Elevators_Consolidation_REST.deps.json
+C:\Users\15149\desktop\Rocket_Elevators_Consolidation_REST\bin\Debug\net5.0\publish\Rocket_Elevators_Consolidation_REST.runtimeconfig.json
