@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s4c25TdyZjs5GE2dH9Zr+fx7wWFA26thKe0Tz7lm4AUwPzuOQR8DC+aXks3xXIN2iNdKz/vgnf2MXveY9nV5YQ==",
+  "dgSpecHash": "zMJDbubl16vl8T7bvB1PwYV2VewkYllgCy5KbK0uirB/t208BQxZx2yc34gz1U5UebZCqWVX0vkq8s4bEExOOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\15149\\desktop\\Rocket_Elevators_Consolidation_REST\\Rocket_Elevators_Consolidation_REST.csproj",
+  "projectFilePath": "C:\\Users\\15149\\Rocket_Elevators_Consolidation_REST\\Rocket_Elevators_Consolidation_REST.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\15149\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\15149\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
