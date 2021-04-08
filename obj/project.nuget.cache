@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zMJDbubl16vl8T7bvB1PwYV2VewkYllgCy5KbK0uirB/t208BQxZx2yc34gz1U5UebZCqWVX0vkq8s4bEExOOw==",
+  "dgSpecHash": "+qQBzwANjnGT4yz7dYHnPI/J51B2vY60IyPc11HqCs2BVEkNO5C8dw7GrVLFNIzLvzHuGGrDAxqlGr1NEUCPkw==",
   "success": true,
   "projectFilePath": "C:\\Users\\15149\\Rocket_Elevators_Consolidation_REST\\Rocket_Elevators_Consolidation_REST.csproj",
   "expectedPackageFiles": [
@@ -56,7 +56,7 @@
     "C:\\Users\\15149\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\15149\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.1\\system.configuration.configurationmanager.4.4.1.nupkg.sha512",
     "C:\\Users\\15149\\.nuget\\packages\\system.console\\4.0.0\\system.console.4.0.0.nupkg.sha512",
-    "C:\\Users\\15149\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\15149\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
     "C:\\Users\\15149\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Users\\15149\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",
     "C:\\Users\\15149\\.nuget\\packages\\system.diagnostics.tracesource\\4.0.0\\system.diagnostics.tracesource.4.0.0.nupkg.sha512",
